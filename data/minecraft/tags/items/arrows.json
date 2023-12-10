@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:tnt",
+    "minecraft:fire_charge",
+    "minecraft:ender_pearl",
+    "minecraft:egg",
+    "minecraft:snowball",
+    "minecraft:splash_potion",
+    "minecraft:lingering_potion",
+    "minecraft:experience_bottle"
+  ]
+}

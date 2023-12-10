@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "arrow_expand": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": [
+      ""
+    ],
+    "icon": {
+      "item": "minecraft:arrow"
+    },
+    "show_toast": false,
+    "title": "Arrow Expand"
+  },
+  "parent": "global:root"
+}
