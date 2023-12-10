@@ -1,7 +1,6 @@
-# Crossbow Enhance
+# Arrow Expand
 
-You can shoot more items by crossbow.
+You can shoot more items as arrow by bow and crossbow.
 
-- Author: Minecraft_hyr
-- Version: 1
-- Supported MC versions: 1.20.3-1.20.4
+- Version number: 1
+- Game versions: 1.20.3-1.20.4
