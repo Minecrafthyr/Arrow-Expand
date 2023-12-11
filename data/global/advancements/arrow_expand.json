@@ -6,14 +6,12 @@
   },
   "display": {
     "announce_to_chat": false,
-    "description": [
-      ""
-    ],
+    "description": "Shoot more items as arrow by bow and crossbow.",
     "icon": {
       "item": "minecraft:arrow"
     },
     "show_toast": false,
     "title": "Arrow Expand"
   },
-  "parent": "global:root"
+  "parent": "global:mcre"
 }

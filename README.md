@@ -1,9 +1,11 @@
 # Arrow Expand
 
-You can shoot more items as arrow by bow and crossbow.
+Shoot more items as arrow by bow and crossbow.
 
 - Version number: 1
 - Game versions: 1.20.3-1.20.4
+- Author: [Minecraft_hyr](https://github.com/Minecrafthyr)
+
 
 ## Dependencies
 
@@ -17,4 +19,8 @@ You can shoot more items as arrow by bow and crossbow.
 
 ### Modifications
 
-###
+#### tags
+
+Items:
+
+- arrow (allow to fill in bow/crossbow): tnt, fire_charge, ender_pearl, egg, snowball, splash_potion, lingering_potion, experience_bottle
