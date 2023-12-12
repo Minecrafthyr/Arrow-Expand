@@ -1,11 +1,10 @@
 # Arrow Expand
 
-Shoot more items as arrow by bow and crossbow.
+Shoot more items by bow and crossbow.
 
 - Version number: 1
 - Game versions: 1.20.3-1.20.4
 - Author: [Minecraft_hyr](https://github.com/Minecrafthyr)
-
 
 ## Dependencies
 

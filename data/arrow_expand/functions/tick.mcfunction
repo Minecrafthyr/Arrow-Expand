@@ -1,1 +1,1 @@
-execute as @e[type=arrow,tag=!arrow_expand..checked] at @s run function arrow_expand:shot
+execute at @a as @e[type=arrow,tag=!arrow_expand..checked,distance=..3] at @s run function arrow_expand:shot
