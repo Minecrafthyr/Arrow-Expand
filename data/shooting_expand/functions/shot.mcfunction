@@ -10,6 +10,3 @@ execute if data storage shooting_expand:data _.item{id:"minecraft:splash_potion"
 execute if data storage shooting_expand:data _.item{id:"minecraft:lingering_potion"} run return run function shooting_expand:shot/potion with entity @s
 execute if data storage shooting_expand:data _.item{id:"minecraft:snowball"} run return run function shooting_expand:shot/snowball with entity @s
 execute if data storage shooting_expand:data _.item{id:"minecraft:tnt"} run return run function shooting_expand:shot/tnt with entity @s
-execute if data storage shooting_expand:data _.item{id:"minecraft:torch"} run return run function shooting_expand:shot/torch with entity @s
-execute if data storage shooting_expand:data _.item{id:"minecraft:soul_torch"} run return run function shooting_expand:shot/soul_torch with entity @s
-execute if data storage shooting_expand:data _.item{id:"minecraft:redstone_torch"} run return run function shooting_expand:shot/redstone_torch with entity @s
